@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploader", "ImageUploader\ImageUploader.csproj", "{7BED08FD-2644-4025-8544-15F2E8E1CBED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploader.Services", "ImageUploader.Services\ImageUploader.Services.csproj", "{90B2FB3F-76F8-4D1C-99EC-A68BE3AD6AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BED08FD-2644-4025-8544-15F2E8E1CBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BED08FD-2644-4025-8544-15F2E8E1CBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BED08FD-2644-4025-8544-15F2E8E1CBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BED08FD-2644-4025-8544-15F2E8E1CBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B2FB3F-76F8-4D1C-99EC-A68BE3AD6AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B2FB3F-76F8-4D1C-99EC-A68BE3AD6AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B2FB3F-76F8-4D1C-99EC-A68BE3AD6AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B2FB3F-76F8-4D1C-99EC-A68BE3AD6AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C86353-8805-4C09-890A-6D9E062A8974}
+	EndGlobalSection
+EndGlobal
